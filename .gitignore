@@ -41,6 +41,3 @@ next-env.d.ts
 # wrangler files
 .wrangler
 .dev.vars*
-
-# Ignore Cloudflare env types
-cloudflare-env.d.ts
